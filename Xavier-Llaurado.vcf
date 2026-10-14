@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Llauradó;Xavier;;;
+FN:Xavier Llauradó
+ORG:INTERA
+TITLE:Chief Operating Officer
+EMAIL;TYPE=INTERNET,WORK:xavier.llaurado@intera-group.com
+TEL;TYPE=CELL:+34 607 383 378
+ADR;TYPE=WORK:;Les Corts;Carrer de Sabino Arana\, 14;Barcelona;;08028;Spain
+URL:https://www.intera-group.com
+END:VCARD
